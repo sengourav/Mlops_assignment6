@@ -27,5 +27,5 @@ jobs:
 
       - name: Run training script
         run: |
-          python train.py
+          python mlops_exam.py
 
