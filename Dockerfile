@@ -19,5 +19,5 @@ EXPOSE 80
 
 ENV NAME MlOpsLab
 
-CMD ["python", "train.py"]
+CMD ["python", "mlops_exam.py"]
 
